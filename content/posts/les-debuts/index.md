@@ -11,10 +11,10 @@ Nos futurs Radis ! Si si ! On a mit des graines dans la terre !
 ![jardiniere](images/radis.jpg)
 
 Les Fraises sont plantées, il faut les planter déjà prêtes.
-![jardiniere](images/fraise.jpg)
+![les fraises](images/fraises.jpg)
 
 Tout notre Jardin ! Bientôt on aura tout planté !
-![jardiniere](images/potager-en-entier.jpg)
+![le potage en entier](images/potager-en-entier.jpg)
 
 
 Eloïse :-)
