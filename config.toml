@@ -1,4 +1,13 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+baseURL = "https://anmes.github.io/"
+languageCode = "fr-fr"
+title = "Notre Petit Jardin"
+theme = "newsroom"
+
+
+[params]
+logo = "images/logo.png"
+home = "Home"
+# theme layout ( two layout is available, "1" and "2" )
+layout = "1"
+# Meta data
+description = "This is meta description"
