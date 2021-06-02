@@ -9,4 +9,15 @@ on a planté des citrouille
 
 ![pdt](images/pdt.jpg)
 
+on a planté des patate pour papa
+
+![framboise](images/framboise.jpg)
+
+on a déplacé nos framboise
+
+![pétunia](images/pétunia.jpg)
+
+première pétunia violette
+
+:) Mathilde (:
 
